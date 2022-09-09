@@ -3,10 +3,12 @@ hr {
     background-color: brown;
     border-color: brown;
   }
-
+  h2 {
+    font-size: 30px;
+    color: blueviolet;
+  }
   footer {
-    text-align: center;
-    
+    text-align: center; 
   }
 
   h1 {
@@ -17,4 +19,10 @@ hr {
   }
   #first_paragraph{
     text-align: center;
+  }
+  body {
+    
+    font-family: sans-serif;
+    padding: 20px;
+    background-color: bisque;
   }
