@@ -18,7 +18,7 @@ about me
 - Git and Github
 
 ## Live link 
-https://clara-musyoka.github.io/week_one_assignment
+https://clara-musyoka.github.io/week_one_assignment/
 
 ## Copyright and License Information
 (c) 2022 Clara Musyoka
