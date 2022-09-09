@@ -21,6 +21,10 @@ h1 {
   text-align: center;
   font-style: italic;
 }
+#main_paragraphs{
+    font-weight: bold;
+    margin-bottom: 0;
+}
 body {
   font-family: sans-serif;
   padding: 20px;
