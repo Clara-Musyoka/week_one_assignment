@@ -6,6 +6,7 @@ hr {
 h2 {
   font-size: 30px;
   color: blueviolet;
+  font-weight: bold;
 }
 footer {
   text-align: center;
